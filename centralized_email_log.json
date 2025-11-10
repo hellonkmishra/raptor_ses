@@ -1,0 +1,92 @@
+[
+    {
+        "s_no": 1,
+        "domain": "com",
+        "from": "sales@raptorsupplies.com",
+        "to": [
+            "sales@raptorsupplies.com"
+        ],
+        "cc": [],
+        "bcc": [
+            "raptorsuppliesemailcatch@gmail.com"
+        ],
+        "total_recipients": 2,
+        "subject": "New customer enquiry from COM - RFQCOM10704",
+        "date_time": "2025-11-10 10:47:22"
+    },
+    {
+        "s_no": 2,
+        "domain": "com",
+        "from": "sales@raptorsupplies.com",
+        "to": [
+            "sales@raptorsupplies.com"
+        ],
+        "cc": [],
+        "bcc": [
+            "raptorsuppliesemailcatch@gmail.com"
+        ],
+        "total_recipients": 2,
+        "subject": "New customer enquiry from COM - RFQCOM10705",
+        "date_time": "2025-11-10 10:51:27"
+    },
+    {
+        "s_no": 3,
+        "domain": "com",
+        "from": "sales@raptorsupplies.com",
+        "to": [
+            "sales@raptorsupplies.com"
+        ],
+        "cc": [],
+        "bcc": [
+            "raptorsuppliesemailcatch@gmail.com"
+        ],
+        "total_recipients": 2,
+        "subject": "New customer enquiry from COM - RFQCOM10706",
+        "date_time": "2025-11-10 11:07:16"
+    },
+    {
+        "s_no": 4,
+        "domain": "com",
+        "from": "sales@raptorsupplies.com",
+        "to": [
+            "sales@raptorsupplies.com"
+        ],
+        "cc": [],
+        "bcc": [
+            "raptorsuppliesemailcatch@gmail.com"
+        ],
+        "total_recipients": 2,
+        "subject": "New customer enquiry from COM - RFQCOM10707",
+        "date_time": "2025-11-10 11:19:28"
+    },
+    {
+        "s_no": 5,
+        "domain": "com",
+        "from": "sales@raptorsupplies.com",
+        "to": [
+            "sales@raptorsupplies.com"
+        ],
+        "cc": [],
+        "bcc": [
+            "raptorsuppliesemailcatch@gmail.com"
+        ],
+        "total_recipients": 2,
+        "subject": "New customer enquiry from COM - RFQCOM10708",
+        "date_time": "2025-11-10 11:20:27"
+    },
+    {
+        "s_no": 6,
+        "domain": "com",
+        "from": "sales@raptorsupplies.com",
+        "to": [
+            "sales@raptorsupplies.com"
+        ],
+        "cc": [],
+        "bcc": [
+            "raptorsuppliesemailcatch@gmail.com"
+        ],
+        "total_recipients": 2,
+        "subject": "New customer enquiry from COM - RFQCOM10709",
+        "date_time": "2025-11-10 11:45:41"
+    }
+]
