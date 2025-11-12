@@ -14,8 +14,10 @@ $SesClient = new SesClient([
     'credentials' => $provider,
     'suppress_php_deprecation_warning' => true
 ]);
-
-$sender_email = 'sales@raptorsupplies.com';
+/*"
+customercare@raptorsupplies.com,no-reply@raptorsupplies.com sales@raptorsupplies.com,support@raptorsupplies.com
+"*/
+$sender_email = 'no-reply@raptorsupplies.com';
 $recipient_emails = ['nkmishra@nextgenesolutions.com'];
 $subject = 'PRODUCTION COM INSTANCE - Test Email with Campaign Tag';
 $body_text = "This is a test email with tagging.";

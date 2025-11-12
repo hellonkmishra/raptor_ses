@@ -88,5 +88,1402 @@
         "total_recipients": 2,
         "subject": "New customer enquiry from COM - RFQCOM10709",
         "date_time": "2025-11-10 11:45:41"
+    },
+    {
+        "s_no": 7,
+        "domain": "com",
+        "from": "sales@raptorsupplies.com",
+        "to": [
+            "sales@raptorsupplies.com"
+        ],
+        "cc": [],
+        "bcc": [
+            "raptorsuppliesemailcatch@gmail.com"
+        ],
+        "total_recipients": 2,
+        "subject": "New customer enquiry from COM - RFQCOM10710",
+        "date_time": "2025-11-10 11:53:00"
+    },
+    {
+        "s_no": 8,
+        "domain": "com",
+        "from": "sales@raptorsupplies.com",
+        "to": [
+            "nkmishra@nextgenesolutions.com"
+        ],
+        "cc": [],
+        "bcc": [],
+        "total_recipients": 1,
+        "subject": "IP blocked due to High hits on raptorsupplies.com",
+        "date_time": "2025-11-10 12:57:20"
+    },
+    {
+        "s_no": 9,
+        "domain": "com",
+        "from": "sales@raptorsupplies.com",
+        "to": [
+            "nkmishra@nextgenesolutions.com"
+        ],
+        "cc": [],
+        "bcc": [],
+        "total_recipients": 1,
+        "subject": "IP blocked due to High hits on raptorsupplies.com",
+        "date_time": "2025-11-10 13:22:24"
+    },
+    {
+        "s_no": 10,
+        "domain": "com",
+        "from": "sales@raptorsupplies.com",
+        "to": [
+            "sales@raptorsupplies.com"
+        ],
+        "cc": [],
+        "bcc": [],
+        "total_recipients": 1,
+        "subject": "New customer enquiry from COM - RFQCOM10713",
+        "date_time": "2025-11-10 13:34:47"
+    },
+    {
+        "s_no": 11,
+        "domain": "com",
+        "from": "sales@raptorsupplies.com",
+        "to": [
+            "nkmishra@nextgenesolutions.com"
+        ],
+        "cc": [],
+        "bcc": [],
+        "total_recipients": 1,
+        "subject": "IP blocked due to High hits on raptorsupplies.com",
+        "date_time": "2025-11-10 13:38:52"
+    },
+    {
+        "s_no": 12,
+        "domain": "com",
+        "from": "sales@raptorsupplies.com",
+        "to": [
+            "nkmishra@nextgenesolutions.com"
+        ],
+        "cc": [],
+        "bcc": [],
+        "total_recipients": 1,
+        "subject": "IP blocked due to High hits on raptorsupplies.com",
+        "date_time": "2025-11-10 13:49:49"
+    },
+    {
+        "s_no": 13,
+        "domain": "com",
+        "from": "sales@raptorsupplies.com",
+        "to": [
+            "nkmishra@nextgenesolutions.com"
+        ],
+        "cc": [],
+        "bcc": [],
+        "total_recipients": 1,
+        "subject": "IP blocked due to High hits on raptorsupplies.com",
+        "date_time": "2025-11-10 13:55:23"
+    },
+    {
+        "s_no": 14,
+        "domain": "com",
+        "from": "sales@raptorsupplies.com",
+        "to": [
+            "nkmishra@nextgenesolutions.com"
+        ],
+        "cc": [],
+        "bcc": [],
+        "total_recipients": 1,
+        "subject": "IP blocked due to High hits on raptorsupplies.com",
+        "date_time": "2025-11-10 14:02:20"
+    },
+    {
+        "s_no": 15,
+        "domain": "com",
+        "from": "sales@raptorsupplies.com",
+        "to": [
+            "nkmishra@nextgenesolutions.com"
+        ],
+        "cc": [],
+        "bcc": [],
+        "total_recipients": 1,
+        "subject": "IP blocked due to High hits on raptorsupplies.com",
+        "date_time": "2025-11-10 14:11:30"
+    },
+    {
+        "s_no": 16,
+        "domain": "com",
+        "from": "sales@raptorsupplies.com",
+        "to": [
+            "nkmishra@nextgenesolutions.com"
+        ],
+        "cc": [],
+        "bcc": [],
+        "total_recipients": 1,
+        "subject": "IP blocked due to High hits on raptorsupplies.com",
+        "date_time": "2025-11-10 14:12:43"
+    },
+    {
+        "s_no": 17,
+        "domain": "com",
+        "from": "sales@raptorsupplies.com",
+        "to": [
+            "nkmishra@nextgenesolutions.com"
+        ],
+        "cc": [],
+        "bcc": [],
+        "total_recipients": 1,
+        "subject": "IP blocked due to High hits on raptorsupplies.com",
+        "date_time": "2025-11-10 14:13:32"
+    },
+    {
+        "s_no": 18,
+        "domain": "com",
+        "from": "sales@raptorsupplies.com",
+        "to": [
+            "nkmishra@nextgenesolutions.com"
+        ],
+        "cc": [],
+        "bcc": [],
+        "total_recipients": 1,
+        "subject": "IP blocked due to High hits on raptorsupplies.com",
+        "date_time": "2025-11-10 14:14:51"
+    },
+    {
+        "s_no": 19,
+        "domain": "com",
+        "from": "sales@raptorsupplies.com",
+        "to": [
+            "nkmishra@nextgenesolutions.com"
+        ],
+        "cc": [],
+        "bcc": [],
+        "total_recipients": 1,
+        "subject": "IP blocked due to High hits on raptorsupplies.com",
+        "date_time": "2025-11-10 14:17:13"
+    },
+    {
+        "s_no": 20,
+        "domain": "com",
+        "from": "sales@raptorsupplies.com",
+        "to": [
+            "nkmishra@nextgenesolutions.com"
+        ],
+        "cc": [],
+        "bcc": [],
+        "total_recipients": 1,
+        "subject": "IP blocked due to High hits on raptorsupplies.com",
+        "date_time": "2025-11-10 14:23:25"
+    },
+    {
+        "s_no": 21,
+        "domain": "com",
+        "from": "sales@raptorsupplies.com",
+        "to": [
+            "nkmishra@nextgenesolutions.com"
+        ],
+        "cc": [],
+        "bcc": [],
+        "total_recipients": 1,
+        "subject": "IP blocked due to High hits on raptorsupplies.com",
+        "date_time": "2025-11-10 14:25:29"
+    },
+    {
+        "s_no": 22,
+        "domain": "com",
+        "from": "sales@raptorsupplies.com",
+        "to": [
+            "nkmishra@nextgenesolutions.com"
+        ],
+        "cc": [],
+        "bcc": [],
+        "total_recipients": 1,
+        "subject": "IP blocked due to High hits on raptorsupplies.com",
+        "date_time": "2025-11-10 14:28:26"
+    },
+    {
+        "s_no": 23,
+        "domain": "com",
+        "from": "sales@raptorsupplies.com",
+        "to": [
+            "nkmishra@nextgenesolutions.com"
+        ],
+        "cc": [],
+        "bcc": [],
+        "total_recipients": 1,
+        "subject": "IP blocked due to High hits on raptorsupplies.com",
+        "date_time": "2025-11-10 14:28:39"
+    },
+    {
+        "s_no": 24,
+        "domain": "com",
+        "from": "sales@raptorsupplies.com",
+        "to": [
+            "nkmishra@nextgenesolutions.com"
+        ],
+        "cc": [],
+        "bcc": [],
+        "total_recipients": 1,
+        "subject": "IP blocked due to High hits on raptorsupplies.com",
+        "date_time": "2025-11-10 14:40:05"
+    },
+    {
+        "s_no": 25,
+        "domain": "com",
+        "from": "sales@raptorsupplies.com",
+        "to": [
+            "nkmishra@nextgenesolutions.com"
+        ],
+        "cc": [],
+        "bcc": [],
+        "total_recipients": 1,
+        "subject": "IP blocked due to High hits on raptorsupplies.com",
+        "date_time": "2025-11-10 14:50:21"
+    },
+    {
+        "s_no": 26,
+        "domain": "com",
+        "from": "sales@raptorsupplies.com",
+        "to": [
+            "sales@raptorsupplies.com"
+        ],
+        "cc": [],
+        "bcc": [],
+        "total_recipients": 1,
+        "subject": "New customer enquiry from COM - RFQCOM10715",
+        "date_time": "2025-11-10 14:53:38"
+    },
+    {
+        "s_no": 27,
+        "domain": "com",
+        "from": "sales@raptorsupplies.com",
+        "to": [
+            "nkmishra@nextgenesolutions.com"
+        ],
+        "cc": [],
+        "bcc": [],
+        "total_recipients": 1,
+        "subject": "IP blocked due to High hits on raptorsupplies.com",
+        "date_time": "2025-11-10 15:05:17"
+    },
+    {
+        "s_no": 28,
+        "domain": "com",
+        "from": "sales@raptorsupplies.com",
+        "to": [
+            "nkmishra@nextgenesolutions.com"
+        ],
+        "cc": [],
+        "bcc": [],
+        "total_recipients": 1,
+        "subject": "IP blocked due to High hits on raptorsupplies.com",
+        "date_time": "2025-11-10 15:07:31"
+    },
+    {
+        "s_no": 29,
+        "domain": "com",
+        "from": "sales@raptorsupplies.com",
+        "to": [
+            "nkmishra@nextgenesolutions.com"
+        ],
+        "cc": [],
+        "bcc": [],
+        "total_recipients": 1,
+        "subject": "IP blocked due to High hits on raptorsupplies.com",
+        "date_time": "2025-11-10 15:10:39"
+    },
+    {
+        "s_no": 30,
+        "domain": "com",
+        "from": "sales@raptorsupplies.com",
+        "to": [
+            "nkmishra@nextgenesolutions.com"
+        ],
+        "cc": [],
+        "bcc": [],
+        "total_recipients": 1,
+        "subject": "IP blocked due to High hits on raptorsupplies.com",
+        "date_time": "2025-11-10 15:23:51"
+    },
+    {
+        "s_no": 31,
+        "domain": "com",
+        "from": "sales@raptorsupplies.com",
+        "to": [
+            "nkmishra@nextgenesolutions.com"
+        ],
+        "cc": [],
+        "bcc": [],
+        "total_recipients": 1,
+        "subject": "IP blocked due to High hits on raptorsupplies.com",
+        "date_time": "2025-11-10 15:24:33"
+    },
+    {
+        "s_no": 32,
+        "domain": "com",
+        "from": "sales@raptorsupplies.com",
+        "to": [
+            "nkmishra@nextgenesolutions.com"
+        ],
+        "cc": [],
+        "bcc": [],
+        "total_recipients": 1,
+        "subject": "IP blocked due to High hits on raptorsupplies.com",
+        "date_time": "2025-11-10 15:27:58"
+    },
+    {
+        "s_no": 33,
+        "domain": "com",
+        "from": "sales@raptorsupplies.com",
+        "to": [
+            "nkmishra@nextgenesolutions.com"
+        ],
+        "cc": [],
+        "bcc": [],
+        "total_recipients": 1,
+        "subject": "IP blocked due to High hits on raptorsupplies.com",
+        "date_time": "2025-11-10 15:36:33"
+    },
+    {
+        "s_no": 34,
+        "domain": "com",
+        "from": "sales@raptorsupplies.com",
+        "to": [
+            "nkmishra@nextgenesolutions.com"
+        ],
+        "cc": [],
+        "bcc": [],
+        "total_recipients": 1,
+        "subject": "IP blocked due to High hits on raptorsupplies.com",
+        "date_time": "2025-11-10 15:43:16"
+    },
+    {
+        "s_no": 35,
+        "domain": "com",
+        "from": "sales@raptorsupplies.com",
+        "to": [
+            "nkmishra@nextgenesolutions.com"
+        ],
+        "cc": [],
+        "bcc": [],
+        "total_recipients": 1,
+        "subject": "IP blocked due to High hits on raptorsupplies.com",
+        "date_time": "2025-11-10 15:48:24"
+    },
+    {
+        "s_no": 36,
+        "domain": "com",
+        "from": "sales@raptorsupplies.com",
+        "to": [
+            "nkmishra@nextgenesolutions.com"
+        ],
+        "cc": [],
+        "bcc": [],
+        "total_recipients": 1,
+        "subject": "IP blocked due to High hits on raptorsupplies.com",
+        "date_time": "2025-11-10 16:03:58"
+    },
+    {
+        "s_no": 37,
+        "domain": "com",
+        "from": "sales@raptorsupplies.com",
+        "to": [
+            "nkmishra@nextgenesolutions.com"
+        ],
+        "cc": [],
+        "bcc": [],
+        "total_recipients": 1,
+        "subject": "IP blocked due to High hits on raptorsupplies.com",
+        "date_time": "2025-11-10 16:04:53"
+    },
+    {
+        "s_no": 38,
+        "domain": "com",
+        "from": "sales@raptorsupplies.com",
+        "to": [
+            "nkmishra@nextgenesolutions.com"
+        ],
+        "cc": [],
+        "bcc": [],
+        "total_recipients": 1,
+        "subject": "IP blocked due to High hits on raptorsupplies.com",
+        "date_time": "2025-11-10 16:09:49"
+    },
+    {
+        "s_no": 39,
+        "domain": "com",
+        "from": "sales@raptorsupplies.com",
+        "to": [
+            "nkmishra@nextgenesolutions.com"
+        ],
+        "cc": [],
+        "bcc": [],
+        "total_recipients": 1,
+        "subject": "IP blocked due to High hits on raptorsupplies.com",
+        "date_time": "2025-11-10 16:14:14"
+    },
+    {
+        "s_no": 40,
+        "domain": "com",
+        "from": "sales@raptorsupplies.com",
+        "to": [
+            "sales@raptorsupplies.com"
+        ],
+        "cc": [],
+        "bcc": [],
+        "total_recipients": 1,
+        "subject": "New customer enquiry from COM - RFQCOM10716",
+        "date_time": "2025-11-10 16:14:15"
+    },
+    {
+        "s_no": 41,
+        "domain": "com",
+        "from": "sales@raptorsupplies.com",
+        "to": [
+            "nkmishra@nextgenesolutions.com"
+        ],
+        "cc": [],
+        "bcc": [],
+        "total_recipients": 1,
+        "subject": "IP blocked due to High hits on raptorsupplies.com",
+        "date_time": "2025-11-10 16:20:58"
+    },
+    {
+        "s_no": 42,
+        "domain": "com",
+        "from": "sales@raptorsupplies.com",
+        "to": [
+            "nkmishra@nextgenesolutions.com"
+        ],
+        "cc": [],
+        "bcc": [],
+        "total_recipients": 1,
+        "subject": "IP blocked due to High hits on raptorsupplies.com",
+        "date_time": "2025-11-10 16:42:22"
+    },
+    {
+        "s_no": 43,
+        "domain": "com",
+        "from": "sales@raptorsupplies.com",
+        "to": [
+            "nkmishra@nextgenesolutions.com"
+        ],
+        "cc": [],
+        "bcc": [],
+        "total_recipients": 1,
+        "subject": "IP blocked due to High hits on raptorsupplies.com",
+        "date_time": "2025-11-10 16:44:56"
+    },
+    {
+        "s_no": 44,
+        "domain": "com",
+        "from": "sales@raptorsupplies.com",
+        "to": [
+            "nkmishra@nextgenesolutions.com"
+        ],
+        "cc": [],
+        "bcc": [],
+        "total_recipients": 1,
+        "subject": "IP blocked due to High hits on raptorsupplies.com",
+        "date_time": "2025-11-10 16:46:06"
+    },
+    {
+        "s_no": 45,
+        "domain": "com",
+        "from": "sales@raptorsupplies.com",
+        "to": [
+            "nkmishra@nextgenesolutions.com"
+        ],
+        "cc": [],
+        "bcc": [],
+        "total_recipients": 1,
+        "subject": "IP blocked due to High hits on raptorsupplies.com",
+        "date_time": "2025-11-10 16:49:02"
+    },
+    {
+        "s_no": 46,
+        "domain": "com",
+        "from": "sales@raptorsupplies.com",
+        "to": [
+            "nkmishra@nextgenesolutions.com"
+        ],
+        "cc": [],
+        "bcc": [],
+        "total_recipients": 1,
+        "subject": "IP blocked due to High hits on raptorsupplies.com",
+        "date_time": "2025-11-10 16:51:45"
+    },
+    {
+        "s_no": 47,
+        "domain": "com",
+        "from": "sales@raptorsupplies.com",
+        "to": [
+            "nkmishra@nextgenesolutions.com"
+        ],
+        "cc": [],
+        "bcc": [],
+        "total_recipients": 1,
+        "subject": "IP blocked due to High hits on raptorsupplies.com",
+        "date_time": "2025-11-10 17:04:09"
+    },
+    {
+        "s_no": 48,
+        "domain": "com",
+        "from": "sales@raptorsupplies.com",
+        "to": [
+            "sales@raptorsupplies.com"
+        ],
+        "cc": [],
+        "bcc": [],
+        "total_recipients": 1,
+        "subject": "New customer enquiry from COM - RFQCOM10718",
+        "date_time": "2025-11-10 18:07:20"
+    },
+    {
+        "s_no": 49,
+        "domain": "com",
+        "from": "sales@raptorsupplies.com",
+        "to": [
+            "sales@raptorsupplies.com"
+        ],
+        "cc": [],
+        "bcc": [],
+        "total_recipients": 1,
+        "subject": "New customer enquiry from COM - RFQCOM10719",
+        "date_time": "2025-11-10 18:09:32"
+    },
+    {
+        "s_no": 50,
+        "domain": "com",
+        "from": "sales@raptorsupplies.com",
+        "to": [
+            "sales@raptorsupplies.com"
+        ],
+        "cc": [],
+        "bcc": [],
+        "total_recipients": 1,
+        "subject": "New customer enquiry from COM - RFQCOM10720",
+        "date_time": "2025-11-10 18:49:26"
+    },
+    {
+        "s_no": 51,
+        "domain": "com",
+        "from": "sales@raptorsupplies.com",
+        "to": [
+            "nkmishra@nextgenesolutions.com"
+        ],
+        "cc": [],
+        "bcc": [],
+        "total_recipients": 1,
+        "subject": "IP blocked due to High hits on raptorsupplies.com",
+        "date_time": "2025-11-10 19:53:16"
+    },
+    {
+        "s_no": 52,
+        "domain": "com",
+        "from": "sales@raptorsupplies.com",
+        "to": [
+            "nkmishra@nextgenesolutions.com"
+        ],
+        "cc": [],
+        "bcc": [],
+        "total_recipients": 1,
+        "subject": "IP blocked due to High hits on raptorsupplies.com",
+        "date_time": "2025-11-10 20:01:39"
+    },
+    {
+        "s_no": 53,
+        "domain": "com",
+        "from": "sales@raptorsupplies.com",
+        "to": [
+            "nkmishra@nextgenesolutions.com"
+        ],
+        "cc": [],
+        "bcc": [],
+        "total_recipients": 1,
+        "subject": "IP blocked due to High hits on raptorsupplies.com",
+        "date_time": "2025-11-10 20:01:39"
+    },
+    {
+        "s_no": 54,
+        "domain": "com",
+        "from": "sales@raptorsupplies.com",
+        "to": [
+            "nkmishra@nextgenesolutions.com"
+        ],
+        "cc": [],
+        "bcc": [],
+        "total_recipients": 1,
+        "subject": "IP blocked due to High hits on raptorsupplies.com",
+        "date_time": "2025-11-10 20:16:24"
+    },
+    {
+        "s_no": 55,
+        "domain": "com",
+        "from": "sales@raptorsupplies.com",
+        "to": [
+            "nkmishra@nextgenesolutions.com"
+        ],
+        "cc": [],
+        "bcc": [],
+        "total_recipients": 1,
+        "subject": "IP blocked due to High hits on raptorsupplies.com",
+        "date_time": "2025-11-11 00:04:43"
+    },
+    {
+        "s_no": 56,
+        "domain": "com",
+        "from": "sales@raptorsupplies.com",
+        "to": [
+            "sales@raptorsupplies.com"
+        ],
+        "cc": [],
+        "bcc": [],
+        "total_recipients": 1,
+        "subject": "New customer enquiry from COM - RFQCOM10722",
+        "date_time": "2025-11-11 01:59:04"
+    },
+    {
+        "s_no": 57,
+        "domain": "com",
+        "from": "sales@raptorsupplies.com",
+        "to": [
+            "nkmishra@nextgenesolutions.com"
+        ],
+        "cc": [],
+        "bcc": [],
+        "total_recipients": 1,
+        "subject": "IP blocked due to High hits on raptorsupplies.com",
+        "date_time": "2025-11-11 02:51:06"
+    },
+    {
+        "s_no": 58,
+        "domain": "com",
+        "from": "sales@raptorsupplies.com",
+        "to": [
+            "sales@raptorsupplies.com"
+        ],
+        "cc": [],
+        "bcc": [],
+        "total_recipients": 1,
+        "subject": "New customer enquiry from COM - RFQCOM10723",
+        "date_time": "2025-11-11 03:26:04"
+    },
+    {
+        "s_no": 59,
+        "domain": "com",
+        "from": "sales@raptorsupplies.com",
+        "to": [
+            "nkmishra@nextgenesolutions.com"
+        ],
+        "cc": [],
+        "bcc": [],
+        "total_recipients": 1,
+        "subject": "IP blocked due to High hits on raptorsupplies.com",
+        "date_time": "2025-11-11 03:28:49"
+    },
+    {
+        "s_no": 60,
+        "domain": "com",
+        "from": "sales@raptorsupplies.com",
+        "to": [
+            "nkmishra@nextgenesolutions.com"
+        ],
+        "cc": [],
+        "bcc": [],
+        "total_recipients": 1,
+        "subject": "IP blocked due to High hits on raptorsupplies.com",
+        "date_time": "2025-11-11 03:30:49"
+    },
+    {
+        "s_no": 61,
+        "domain": "com",
+        "from": "sales@raptorsupplies.com",
+        "to": [
+            "nkmishra@nextgenesolutions.com"
+        ],
+        "cc": [],
+        "bcc": [],
+        "total_recipients": 1,
+        "subject": "IP blocked due to High hits on raptorsupplies.com",
+        "date_time": "2025-11-11 03:34:05"
+    },
+    {
+        "s_no": 62,
+        "domain": "com",
+        "from": "sales@raptorsupplies.com",
+        "to": [
+            "nkmishra@nextgenesolutions.com"
+        ],
+        "cc": [],
+        "bcc": [],
+        "total_recipients": 1,
+        "subject": "IP blocked due to High hits on raptorsupplies.com",
+        "date_time": "2025-11-11 03:40:07"
+    },
+    {
+        "s_no": 63,
+        "domain": "com",
+        "from": "sales@raptorsupplies.com",
+        "to": [
+            "sales@raptorsupplies.com"
+        ],
+        "cc": [],
+        "bcc": [],
+        "total_recipients": 1,
+        "subject": "New customer enquiry from COM - RFQCOM10724",
+        "date_time": "2025-11-11 03:40:44"
+    },
+    {
+        "s_no": 64,
+        "domain": "com",
+        "from": "sales@raptorsupplies.com",
+        "to": [
+            "sales@raptorsupplies.com"
+        ],
+        "cc": [],
+        "bcc": [],
+        "total_recipients": 1,
+        "subject": "New customer enquiry from COM - RFQCOM10725",
+        "date_time": "2025-11-11 04:37:20"
+    },
+    {
+        "s_no": 65,
+        "domain": "com",
+        "from": "sales@raptorsupplies.com",
+        "to": [
+            "nkmishra@nextgenesolutions.com"
+        ],
+        "cc": [],
+        "bcc": [],
+        "total_recipients": 1,
+        "subject": "IP blocked due to High hits on raptorsupplies.com",
+        "date_time": "2025-11-11 05:30:18"
+    },
+    {
+        "s_no": 66,
+        "domain": "com",
+        "from": "sales@raptorsupplies.com",
+        "to": [
+            "nkmishra@nextgenesolutions.com"
+        ],
+        "cc": [],
+        "bcc": [],
+        "total_recipients": 1,
+        "subject": "IP blocked due to High hits on raptorsupplies.com",
+        "date_time": "2025-11-11 06:06:23"
+    },
+    {
+        "s_no": 67,
+        "domain": "com",
+        "from": "sales@raptorsupplies.com",
+        "to": [
+            "nkmishra@nextgenesolutions.com"
+        ],
+        "cc": [],
+        "bcc": [],
+        "total_recipients": 1,
+        "subject": "IP blocked due to High hits on raptorsupplies.com",
+        "date_time": "2025-11-11 06:38:05"
+    },
+    {
+        "s_no": 68,
+        "domain": "com",
+        "from": "sales@raptorsupplies.com",
+        "to": [
+            "sales@raptorsupplies.com"
+        ],
+        "cc": [],
+        "bcc": [],
+        "total_recipients": 1,
+        "subject": "New customer enquiry from COM - RFQCOM10729",
+        "date_time": "2025-11-11 08:01:27"
+    },
+    {
+        "s_no": 69,
+        "domain": "com",
+        "from": "sales@raptorsupplies.com",
+        "to": [
+            "sales@raptorsupplies.com"
+        ],
+        "cc": [],
+        "bcc": [],
+        "total_recipients": 1,
+        "subject": "New customer enquiry from COM - RFQCOM10732",
+        "date_time": "2025-11-11 08:17:46"
+    },
+    {
+        "s_no": 70,
+        "domain": "com",
+        "from": "sales@raptorsupplies.com",
+        "to": [
+            "sales@raptorsupplies.com"
+        ],
+        "cc": [],
+        "bcc": [],
+        "total_recipients": 1,
+        "subject": "New customer enquiry from COM - RFQCOM10735",
+        "date_time": "2025-11-11 09:47:31"
+    },
+    {
+        "s_no": 71,
+        "domain": "com",
+        "from": "sales@raptorsupplies.com",
+        "to": [
+            "sales@raptorsupplies.com"
+        ],
+        "cc": [],
+        "bcc": [],
+        "total_recipients": 1,
+        "subject": "New customer enquiry from COM - RFQCOM10736",
+        "date_time": "2025-11-11 10:26:44"
+    },
+    {
+        "s_no": 72,
+        "domain": "com",
+        "from": "sales@raptorsupplies.com",
+        "to": [
+            "sales@raptorsupplies.com"
+        ],
+        "cc": [],
+        "bcc": [],
+        "total_recipients": 1,
+        "subject": "New customer enquiry from COM - RFQCOM10737",
+        "date_time": "2025-11-11 10:26:45"
+    },
+    {
+        "s_no": 73,
+        "domain": "com",
+        "from": "sales@raptorsupplies.com",
+        "to": [
+            "sales@raptorsupplies.com"
+        ],
+        "cc": [],
+        "bcc": [],
+        "total_recipients": 1,
+        "subject": "New customer enquiry from COM - RFQCOM10738",
+        "date_time": "2025-11-11 10:33:20"
+    },
+    {
+        "s_no": 74,
+        "domain": "com",
+        "from": "sales@raptorsupplies.com",
+        "to": [
+            "sales@raptorsupplies.com"
+        ],
+        "cc": [],
+        "bcc": [],
+        "total_recipients": 1,
+        "subject": "New customer enquiry from COM - RFQCOM10739",
+        "date_time": "2025-11-11 12:03:08"
+    },
+    {
+        "s_no": 75,
+        "domain": "com",
+        "from": "sales@raptorsupplies.com",
+        "to": [
+            "sales@raptorsupplies.com"
+        ],
+        "cc": [],
+        "bcc": [],
+        "total_recipients": 1,
+        "subject": "New customer enquiry from COM - RFQCOM10740",
+        "date_time": "2025-11-11 12:03:42"
+    },
+    {
+        "s_no": 76,
+        "domain": "com",
+        "from": "sales@raptorsupplies.com",
+        "to": [
+            "nkmishra@nextgenesolutions.com"
+        ],
+        "cc": [],
+        "bcc": [],
+        "total_recipients": 1,
+        "subject": "IP blocked due to High hits on raptorsupplies.com",
+        "date_time": "2025-11-11 13:09:52"
+    },
+    {
+        "s_no": 77,
+        "domain": "com",
+        "from": "sales@raptorsupplies.com",
+        "to": [
+            "sales@raptorsupplies.com"
+        ],
+        "cc": [],
+        "bcc": [],
+        "total_recipients": 1,
+        "subject": "New customer enquiry from COM - RFQCOM10744",
+        "date_time": "2025-11-11 14:04:18"
+    },
+    {
+        "s_no": 78,
+        "domain": "com",
+        "from": "sales@raptorsupplies.com",
+        "to": [
+            "nkmishra@nextgenesolutions.com"
+        ],
+        "cc": [],
+        "bcc": [],
+        "total_recipients": 1,
+        "subject": "IP blocked due to High hits on raptorsupplies.com",
+        "date_time": "2025-11-11 14:06:44"
+    },
+    {
+        "s_no": 79,
+        "domain": "com",
+        "from": "sales@raptorsupplies.com",
+        "to": [
+            "sales@raptorsupplies.com"
+        ],
+        "cc": [],
+        "bcc": [],
+        "total_recipients": 1,
+        "subject": "New customer enquiry from COM - RFQCOM10745",
+        "date_time": "2025-11-11 14:29:11"
+    },
+    {
+        "s_no": 80,
+        "domain": "com",
+        "from": "sales@raptorsupplies.com",
+        "to": [
+            "sales@raptorsupplies.com"
+        ],
+        "cc": [],
+        "bcc": [],
+        "total_recipients": 1,
+        "subject": "New customer enquiry from COM - RFQCOM10747",
+        "date_time": "2025-11-11 15:30:38"
+    },
+    {
+        "s_no": 81,
+        "domain": "com",
+        "from": "sales@raptorsupplies.com",
+        "to": [
+            "nkmishra@nextgenesolutions.com"
+        ],
+        "cc": [],
+        "bcc": [],
+        "total_recipients": 1,
+        "subject": "IP blocked due to High hits on raptorsupplies.com",
+        "date_time": "2025-11-11 16:52:22"
+    },
+    {
+        "s_no": 82,
+        "domain": "com",
+        "from": "sales@raptorsupplies.com",
+        "to": [
+            "nkmishra@nextgenesolutions.com"
+        ],
+        "cc": [],
+        "bcc": [],
+        "total_recipients": 1,
+        "subject": "IP blocked due to High hits on raptorsupplies.com",
+        "date_time": "2025-11-11 16:55:15"
+    },
+    {
+        "s_no": 83,
+        "domain": "com",
+        "from": "sales@raptorsupplies.com",
+        "to": [
+            "sales@raptorsupplies.com"
+        ],
+        "cc": [],
+        "bcc": [],
+        "total_recipients": 1,
+        "subject": "New customer enquiry from COM - RFQCOM10748",
+        "date_time": "2025-11-11 17:11:55"
+    },
+    {
+        "s_no": 84,
+        "domain": "com",
+        "from": "sales@raptorsupplies.com",
+        "to": [
+            "sales@raptorsupplies.com"
+        ],
+        "cc": [],
+        "bcc": [],
+        "total_recipients": 1,
+        "subject": "New customer enquiry from COM - RFQCOM10749",
+        "date_time": "2025-11-11 17:56:57"
+    },
+    {
+        "s_no": 85,
+        "domain": "com",
+        "from": "sales@raptorsupplies.com",
+        "to": [
+            "nkmishra@nextgenesolutions.com"
+        ],
+        "cc": [],
+        "bcc": [],
+        "total_recipients": 1,
+        "subject": "IP blocked due to High hits on raptorsupplies.com",
+        "date_time": "2025-11-11 18:59:56"
+    },
+    {
+        "s_no": 86,
+        "domain": "com",
+        "from": "sales@raptorsupplies.com",
+        "to": [
+            "nkmishra@nextgenesolutions.com"
+        ],
+        "cc": [],
+        "bcc": [],
+        "total_recipients": 1,
+        "subject": "IP blocked due to High hits on raptorsupplies.com",
+        "date_time": "2025-11-11 19:27:41"
+    },
+    {
+        "s_no": 87,
+        "domain": "com",
+        "from": "sales@raptorsupplies.com",
+        "to": [
+            "nkmishra@nextgenesolutions.com"
+        ],
+        "cc": [],
+        "bcc": [],
+        "total_recipients": 1,
+        "subject": "IP blocked due to High hits on raptorsupplies.com",
+        "date_time": "2025-11-11 19:27:49"
+    },
+    {
+        "s_no": 88,
+        "domain": "com",
+        "from": "sales@raptorsupplies.com",
+        "to": [
+            "sales@raptorsupplies.com"
+        ],
+        "cc": [],
+        "bcc": [],
+        "total_recipients": 1,
+        "subject": "New customer enquiry from COM - RFQCOM10750",
+        "date_time": "2025-11-11 19:32:57"
+    },
+    {
+        "s_no": 89,
+        "domain": "com",
+        "from": "sales@raptorsupplies.com",
+        "to": [
+            "nkmishra@nextgenesolutions.com"
+        ],
+        "cc": [],
+        "bcc": [],
+        "total_recipients": 1,
+        "subject": "IP blocked due to High hits on raptorsupplies.com",
+        "date_time": "2025-11-11 20:01:39"
+    },
+    {
+        "s_no": 90,
+        "domain": "com",
+        "from": "sales@raptorsupplies.com",
+        "to": [
+            "nkmishra@nextgenesolutions.com"
+        ],
+        "cc": [],
+        "bcc": [],
+        "total_recipients": 1,
+        "subject": "IP blocked due to High hits on raptorsupplies.com",
+        "date_time": "2025-11-11 20:03:39"
+    },
+    {
+        "s_no": 91,
+        "domain": "com",
+        "from": "sales@raptorsupplies.com",
+        "to": [
+            "sales@raptorsupplies.com"
+        ],
+        "cc": [],
+        "bcc": [],
+        "total_recipients": 1,
+        "subject": "New customer enquiry from COM - RFQCOM10752",
+        "date_time": "2025-11-11 20:12:42"
+    },
+    {
+        "s_no": 92,
+        "domain": "com",
+        "from": "sales@raptorsupplies.com",
+        "to": [
+            "nkmishra@nextgenesolutions.com"
+        ],
+        "cc": [],
+        "bcc": [],
+        "total_recipients": 1,
+        "subject": "IP blocked due to High hits on raptorsupplies.com",
+        "date_time": "2025-11-11 21:03:13"
+    },
+    {
+        "s_no": 93,
+        "domain": "com",
+        "from": "sales@raptorsupplies.com",
+        "to": [
+            "sales@raptorsupplies.com"
+        ],
+        "cc": [],
+        "bcc": [],
+        "total_recipients": 1,
+        "subject": "New customer enquiry from COM - RFQCOM10753",
+        "date_time": "2025-11-11 22:17:29"
+    },
+    {
+        "s_no": 94,
+        "domain": "com",
+        "from": "sales@raptorsupplies.com",
+        "to": [
+            "nkmishra@nextgenesolutions.com"
+        ],
+        "cc": [],
+        "bcc": [],
+        "total_recipients": 1,
+        "subject": "IP blocked due to High hits on raptorsupplies.com",
+        "date_time": "2025-11-11 23:29:11"
+    },
+    {
+        "s_no": 95,
+        "domain": "com",
+        "from": "sales@raptorsupplies.com",
+        "to": [
+            "sales@raptorsupplies.com"
+        ],
+        "cc": [],
+        "bcc": [],
+        "total_recipients": 1,
+        "subject": "New customer enquiry from COM - RFQCOM10754",
+        "date_time": "2025-11-11 23:54:22"
+    },
+    {
+        "s_no": 96,
+        "domain": "com",
+        "from": "sales@raptorsupplies.com",
+        "to": [
+            "sales@raptorsupplies.com"
+        ],
+        "cc": [],
+        "bcc": [],
+        "total_recipients": 1,
+        "subject": "New customer enquiry from COM - RFQCOM10755",
+        "date_time": "2025-11-12 01:40:31"
+    },
+    {
+        "s_no": 97,
+        "domain": "com",
+        "from": "sales@raptorsupplies.com",
+        "to": [
+            "sales@raptorsupplies.com"
+        ],
+        "cc": [],
+        "bcc": [],
+        "total_recipients": 1,
+        "subject": "New customer enquiry from COM - RFQCOM10756",
+        "date_time": "2025-11-12 01:43:10"
+    },
+    {
+        "s_no": 98,
+        "domain": "com",
+        "from": "sales@raptorsupplies.com",
+        "to": [
+            "nkmishra@nextgenesolutions.com"
+        ],
+        "cc": [],
+        "bcc": [],
+        "total_recipients": 1,
+        "subject": "IP blocked due to High hits on raptorsupplies.com",
+        "date_time": "2025-11-12 03:24:41"
+    },
+    {
+        "s_no": 99,
+        "domain": "com",
+        "from": "sales@raptorsupplies.com",
+        "to": [
+            "sales@raptorsupplies.com"
+        ],
+        "cc": [],
+        "bcc": [],
+        "total_recipients": 1,
+        "subject": "New customer enquiry from COM - RFQCOM10757",
+        "date_time": "2025-11-12 03:27:21"
+    },
+    {
+        "s_no": 100,
+        "domain": "com",
+        "from": "sales@raptorsupplies.com",
+        "to": [
+            "nkmishra@nextgenesolutions.com"
+        ],
+        "cc": [],
+        "bcc": [],
+        "total_recipients": 1,
+        "subject": "IP blocked due to High hits on raptorsupplies.com",
+        "date_time": "2025-11-12 03:28:40"
+    },
+    {
+        "s_no": 101,
+        "domain": "com",
+        "from": "sales@raptorsupplies.com",
+        "to": [
+            "nkmishra@nextgenesolutions.com"
+        ],
+        "cc": [],
+        "bcc": [],
+        "total_recipients": 1,
+        "subject": "IP blocked due to High hits on raptorsupplies.com",
+        "date_time": "2025-11-12 04:50:49"
+    },
+    {
+        "s_no": 102,
+        "domain": "com",
+        "from": "sales@raptorsupplies.com",
+        "to": [
+            "nkmishra@nextgenesolutions.com"
+        ],
+        "cc": [],
+        "bcc": [],
+        "total_recipients": 1,
+        "subject": "IP blocked due to High hits on raptorsupplies.com",
+        "date_time": "2025-11-12 05:09:40"
+    },
+    {
+        "s_no": 103,
+        "domain": "com",
+        "from": "sales@raptorsupplies.com",
+        "to": [
+            "nkmishra@nextgenesolutions.com"
+        ],
+        "cc": [],
+        "bcc": [],
+        "total_recipients": 1,
+        "subject": "IP blocked due to High hits on raptorsupplies.com",
+        "date_time": "2025-11-12 05:30:57"
+    },
+    {
+        "s_no": 104,
+        "domain": "com",
+        "from": "sales@raptorsupplies.com",
+        "to": [
+            "nkmishra@nextgenesolutions.com"
+        ],
+        "cc": [],
+        "bcc": [],
+        "total_recipients": 1,
+        "subject": "IP blocked due to High hits on raptorsupplies.com",
+        "date_time": "2025-11-12 05:36:02"
+    },
+    {
+        "s_no": 105,
+        "domain": "com",
+        "from": "sales@raptorsupplies.com",
+        "to": [
+            "nkmishra@nextgenesolutions.com"
+        ],
+        "cc": [],
+        "bcc": [],
+        "total_recipients": 1,
+        "subject": "IP blocked due to High hits on raptorsupplies.com",
+        "date_time": "2025-11-12 05:44:27"
+    },
+    {
+        "s_no": 106,
+        "domain": "com",
+        "from": "sales@raptorsupplies.com",
+        "to": [
+            "sales@raptorsupplies.com"
+        ],
+        "cc": [],
+        "bcc": [],
+        "total_recipients": 1,
+        "subject": "New customer enquiry from COM - RFQCOM10759",
+        "date_time": "2025-11-12 05:48:50"
+    },
+    {
+        "s_no": 107,
+        "domain": "com",
+        "from": "sales@raptorsupplies.com",
+        "to": [
+            "sales@raptorsupplies.com"
+        ],
+        "cc": [],
+        "bcc": [],
+        "total_recipients": 1,
+        "subject": "New customer enquiry from COM - RFQCOM10764",
+        "date_time": "2025-11-12 06:15:59"
+    },
+    {
+        "s_no": 108,
+        "domain": "com",
+        "from": "sales@raptorsupplies.com",
+        "to": [
+            "sunil.mandal@nextgenesolutions.com"
+        ],
+        "cc": [],
+        "bcc": [
+            ""
+        ],
+        "total_recipients": 2,
+        "subject": "MRO on raptorsupplies.com - RFQCOM10767",
+        "date_time": "2025-11-12 06:24:30"
+    },
+    {
+        "s_no": 109,
+        "domain": "com",
+        "from": "sales@raptorsupplies.com",
+        "to": [
+            "sunil.mandal@nextgenesolutions.com"
+        ],
+        "cc": [],
+        "bcc": [],
+        "total_recipients": 1,
+        "subject": "MRO on raptorsupplies.com - RFQCOM10773",
+        "date_time": "2025-11-12 06:34:08"
+    },
+    {
+        "s_no": 110,
+        "domain": "com",
+        "from": "sales@raptorsupplies.com",
+        "to": [
+            "sunil.mandal@nextgenesolutions.com"
+        ],
+        "cc": [],
+        "bcc": [
+            "raptorsuppliesemailcatch@gmail.com"
+        ],
+        "total_recipients": 2,
+        "subject": "MRO on raptorsupplies.com - RFQCOM10774",
+        "date_time": "2025-11-12 06:35:16"
+    },
+    {
+        "s_no": 111,
+        "domain": "com",
+        "from": "sales@raptorsupplies.com",
+        "to": [
+            "sales@raptorsupplies.com"
+        ],
+        "cc": [],
+        "bcc": [],
+        "total_recipients": 1,
+        "subject": "New customer enquiry from .com - Brand - RFQCOM10776",
+        "date_time": "2025-11-12 06:37:48"
+    },
+    {
+        "s_no": 112,
+        "domain": "com",
+        "from": "sales@raptorsupplies.com",
+        "to": [
+            "sales@raptorsupplies.com"
+        ],
+        "cc": [],
+        "bcc": [],
+        "total_recipients": 1,
+        "subject": "New customer enquiry from COM - RFQCOM10777",
+        "date_time": "2025-11-12 06:45:06"
+    },
+    {
+        "s_no": 113,
+        "domain": "com",
+        "from": "sales@raptorsupplies.com",
+        "to": [
+            "sales@raptorsupplies.com"
+        ],
+        "cc": [],
+        "bcc": [],
+        "total_recipients": 1,
+        "subject": "New customer enquiry from COM - RFQCOM10778",
+        "date_time": "2025-11-12 06:51:00"
     }
 ]
